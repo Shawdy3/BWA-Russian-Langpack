@@ -1,0 +1,81 @@
+aether.guidebook.section.enchanter=Чарователь
+aether.guidebook.section.freezer=Холодильник
+aether.guidebook.section.incubator=Инкубатор
+
+aether.guidebook.section.incubator.undiscovered=Как вылупляется это существо ещё не выяснено.
+aether.guidebook.section.incubator.chicken=Что появилось раньше, курица или яйцо?
+aether.guidebook.section.incubator.slime=Осторожно, они бывают разных размеров.
+
+aether.guidebook.section.incubator.moa_blue=Крепкая птица, делает 3 прыжка в воздухе.
+aether.guidebook.section.incubator.moa_white=Сильная птица, делает 5 прыжков в воздухе.
+aether.guidebook.section.incubator.moa_black=Могучая птица, делает 7 прыжков в воздухе.
+
+aether.guidebook.section.incubator.swet_gold=Великолепное враждебное желатиновое существо.
+aether.guidebook.section.incubator.swet=Враждебное желатиновое существо.
+
+guidebook.section.mob.phyg.name=Летучая свинья
+guidebook.section.mob.phyg.desc=Летучие свиньи обычный но ценный источник еды, перьев и транспорта. Можно найти в любом месте Эфира.
+
+guidebook.section.mob.sheepuff.name=Надувная овца
+guidebook.section.mob.sheepuff.desc=Надувные овцы дают много шерсти, они мягкие и прыгучие. Можно найти в любом месте Эфира.
+
+guidebook.section.mob.phow.name=Летучая корова
+guidebook.section.mob.phow.desc=Летучие коровы полезный источник кожи, перьев и транспорта. Можно найти в любом месте Эфира.
+
+guidebook.section.mob.aerbunny.name=Аэрокролик
+guidebook.section.mob.aerbunny.desc=Милый и удобный источник ниток, можно посадить на голову для дополнительных прыжков. Можно найти в любом месте Эфира.
+
+guidebook.section.mob.moa.blue.name=Синий Моа
+guidebook.section.mob.moa.blue.desc=Нежная ездовая птичка. Синие совершают 3 прыжка в воздухе.
+
+guidebook.section.mob.moa.white.name=Белый Моа
+guidebook.section.mob.moa.white.desc=Нежная ездовая птичка. Белые совершают 5 прыжков в воздухе.
+
+guidebook.section.mob.moa.black.name=Чёрный Моа
+guidebook.section.mob.moa.black.desc=Нежная ездовая птичка. Чёрные совершают 7 прыжков в воздухе.
+
+guidebook.section.mob.aerwhale.name=Небесный кит
+guidebook.section.mob.aerwhale.desc=Небесные киты это древние и мирные создания, дрейфующие по небу.
+
+guidebook.section.mob.swet.name=Синий сладень
+guidebook.section.mob.swet.desc=Представляют опасность, если схватят тебя. Встречаются в любом месте Эфира.
+
+guidebook.section.mob.swet.gold.name=Золотой сладень
+guidebook.section.mob.swet.gold.desc=Представляют опасность, если схватят тебя. Редко встречаются в любом месте Эфира.
+
+guidebook.section.mob.cockatrice.name=Василиск
+guidebook.section.mob.cockatrice.desc=Злые и враждебные птицы, обитающие в темных местах. Стреляют ядовитыми иглами из своих пастей.
+
+guidebook.section.mob.aechorplant.name=Цветок Эхора
+guidebook.section.mob.aechorplant.desc=Цветы эхора уникальная фауна Эфира. Стреляют ядовитыми иглами для отпугивания хищников.
+
+guidebook.section.mob.zephyr.name=Зефир
+guidebook.section.mob.zephyr.desc=Обычная злоба парящая по всему Эфиру, Стреляют снежками и отправляют в полёт.
+
+guidebook.section.mob.whirly.name=Вихрь
+guidebook.section.mob.whirly.desc=Необычное существо из Эфира, разбрасывается предметами и остается спокойным.
+
+guidebook.section.mob.tempest.name=Шторм
+guidebook.section.mob.tempest.desc=Шокирующе хорош в нанесении урона от молнии.
+
+guidebook.section.mob.mimic.name=Мимик
+guidebook.section.mob.mimic.desc=Культовая ловушка для путешественников, перемешан с обычными сундуками в серебряной сокровищнице.
+
+guidebook.section.mob.sentry.name=Часовой
+guidebook.section.mob.sentry.desc=Автоматоны, погребенные в полах бронзовых сокровищниц. Взрываются когда на них наступают.
+
+guidebook.section.mob.valkyrie.name=Валькирия
+guidebook.section.mob.valkyrie.desc=Прекрасный солдат, телепортирующийся вокруг тебя. Бродит по серебряной сокровищнице.
+
+guidebook.section.mob.fireminion.name=Огненный миньон
+guidebook.section.mob.fireminion.desc=Приведение, вызванное духом солнца, быстрое и смертоносное.
+
+guidebook.section.mob.slider.name=Слайдер
+guidebook.section.mob.slider.desc=Блочный и крепкий босс которого можно победить только шахтерскими инструментами, встречается в бронзовой сокровищнице. 
+
+guidebook.section.mob.valkyrie.queen.name=Королева Валькирий
+guidebook.section.mob.valkyrie.queen.desc=Изящный воин который телепортируется и метает молнии, встречается в серебряной сокровищнице.
+
+guidebook.section.mob.sunspirit.name=Дух солнца
+guidebook.section.mob.sunspirit.desc=Разрушительный горящий бог атакующий огнем и льдом, встречается в золотой сокровищнице.
+

@@ -1,0 +1,15 @@
+#Effects
+effect.aether.poison.name=Опьянение
+effect.aether.remedy.name=Лечение
+effect.aether.invisibility.name=Невидимость
+effect.aether.swetty.name=Сладость
+
+#Music
+aether_tune=Aether Tune
+a_morning_wish=A Morning Wish
+ascending_dawn=Ascending Dawn
+nether_menu=Nether Menu
+
+aether.download_resources=Установка ресурсов для Aether... [%d | %d]
+
+

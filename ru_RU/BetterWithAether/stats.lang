@@ -1,0 +1,66 @@
+aether.name=Эфир
+achievements.page.aether.desc=Достижения Эфира
+
+achievement.aether.hostile_paradise=Враждебный рай
+achievement.aether.hostile_paradise.desc=Войдите в Эфир.
+
+achievement.aether.poison=На веселе
+achievement.aether.poison.desc=Отравитесь.
+achievement.aether.remedy=Панацея
+achievement.aether.remedy.desc=Вылечите отравление.
+
+achievement.aether.shooter=Прицелься
+achievement.aether.shooter.desc=Создайте духовое ружьё.
+achievement.aether.zephyr=Меткий стрелок
+achievement.aether.zephyr.desc=Убейте зефира дротиком.
+
+achievement.aether.bounce=To Бесконечность не предел!
+achievement.aether.bounce.desc=Подпрыгните на голубом облаке.
+achievement.aether.gold_cloud=Как подушка
+achievement.aether.gold_cloud.desc=Добудьте золотое облако.
+achievement.aether.parachute=Парашютист
+achievement.aether.parachute.desc=Используйте парашют.
+
+achievement.aether.phyg=Хорошо, что свиньи летают...
+achievement.aether.phyg.desc=Упасть со скалы верхом на летучей свинье
+achievement.aether.moa=Теперь мы семья!
+achievement.aether.moa.desc=Инкубировать Моа
+
+achievement.aether.enchanter=Вы верите в магию?
+achievement.aether.enchanter.desc=Создайте чарователь.
+
+achievement.aether.sentry_deployed=Заминирован
+achievement.aether.sentry_deployed.desc=Наступите на часового.
+achievement.aether.bronze=Как Боссару!
+achievement.aether.bronze.desc=Победите босса бронзовой сокровищницы.
+
+achievement.aether.its_a_trap=Ловушка!
+achievement.aether.its_a_trap.desc=Наткнитесь на мимика.
+achievement.aether.silver=Свержение
+achievement.aether.silver.desc=Победите босса серебряной сокровищницы.
+
+achievement.aether.ice_deflect=Обратно в тебя!
+achievement.aether.ice_deflect.desc=Ударьте духа солнца отраженным снарядом.
+achievement.aether.gold=Погашен
+achievement.aether.gold.desc=Победите босса золотой сокровищницы.
+
+achievement.aether.skyroot=Пора в шахту! Снова!
+achievement.aether.skyroot.desc=Создайте небесную кирку.
+achievement.aether.ambrosium=Топливо богов
+achievement.aether.ambrosium.desc=Съешьте кусок амброзия.
+achievement.aether.healing_stone=Волшебная еда
+achievement.aether.healing_stone.desc=Создайте лечащий камень.
+achievement.aether.gravitite=Розовый - это новый синий
+achievement.aether.gravitite.desc=Создайте гравититовый инструмент.
+
+achievement.aether.all_music_discs=Любитель дисков
+achievement.aether.all_music_discs.desc=Соберите все музыкальные диски aether.
+
+achievement.aether.all_accessory_types=Мастер на все руки
+achievement.aether.all_accessory_types.desc=Носите аксессуары во всех 4 слотах.
+
+achievement.aether.max_life=На максимум
+achievement.aether.max_life.desc=Увеличьте здоровье до максимума.
+
+achievement.aether.weve_got_hostiles=У нас враги!
+achievement.aether.weve_got_hostiles.desc=Найдите сокровищницу.

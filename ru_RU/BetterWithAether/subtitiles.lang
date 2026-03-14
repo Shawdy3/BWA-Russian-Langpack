@@ -1,0 +1,49 @@
+subtitles.aether.life.shard.chime=Жизненный осколок использован
+subtitles.aether.life.shard.chime.final=Последний жизненный осколок использован
+
+subtitles.zap=Электрический удар
+
+subtitles.heal=Лечение
+
+subtitles.mob.zephyr.call=Звук Зефира
+subtitles.mob.zephyr.shoot=Снежок Зефира
+
+subtitles.mob.moa=Зов Моа
+
+subtitles.aether.portal=Портал
+subtitles.aether.portal.trigger=Активация портала
+subtitles.aether.portal.travel=Перемещение портала
+
+subtitles.mob.aerbunny.hurt=Аэрокролик получает урон
+subtitles.mob.aerbunny.death=Аэрокролик погибает
+subtitles.mob.aerbunny.lift=Аэрокролика подняли
+subtitles.mob.aerbunny.land=Аэрокролика опустили
+
+subtitles.mob.aerwhale.call=Зов небесного кита
+
+subtitles.mob.wingflap=Wing flap
+
+subtitles.mob.slider.awaken=Слайдер пробуждается
+subtitles.mob.slider.collide=Слайдер сталкивается
+subtitles.mob.slider.death=Слайдер погибает
+subtitles.mob.slider.move=Слайдер получает урон
+
+subtitles.mob.valkyrie.talk=Голос валькирии
+subtitles.mob.valkyrie.laugh=Смех валькирии
+subtitles.mob.valkyrie.hurt=Валькирия получает урон
+subtitles.mob.valkyrie.death=Валькирия погибает
+
+subtitles.mob.sunspirit.talk=Голос духа солнца
+subtitles.mob.sunspirit.hurt=Дух солнца получает урон
+subtitles.mob.sunspirit.death=Дух солнца погибает
+
+subtitles.note.saxophone=Звук саксофона
+subtitles.note.musicbox=Звук шкатулки
+subtitles.note.sitar=Звук ситара
+subtitles.note.bell=Звук колокольчика
+subtitles.note.click=Щелчок
+subtitles.note.flute=Звук флейты
+subtitles.note.xylophone=Звук ксилофона
+subtitles.note.trance=Звук транса
+subtitles.note.trumpet=Звук трубы
+subtitles.note.organ=Звук органа

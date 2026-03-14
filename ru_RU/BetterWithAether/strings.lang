@@ -1,0 +1,38 @@
+#Dimension
+dimension.aether.name=Эфир
+dimension.aether.desc=Враждебный рай
+
+#Worldtype
+worldType.aether.default.name=Стандартный
+worldType.aether.default.desc=Опыт, больше похожий на оригинальный мод.
+worldType.aether.extended.name=Расширенный
+worldType.aether.extended.desc=Опыт предполагаемый для \nBWA, с более крупными биомами и\ntaller мирами. 
+worldType.aether.skyblock.name=Скайблок
+worldType.aether.skyblock.desc=Хардкорное выживание на мелких\nisland в небе.
+worldType.aether.retro.name=Ретро
+worldType.aether.retro.desc=Как стандартный, но с оригинальными текстурами.
+
+#Record
+record.aether=Aether Tune
+record.morning=A Morning Wish
+record.dawn=Ascending Dawn
+record.nether=Nether Menu
+
+
+#Container
+container.enchanter.name=Алтарь
+container.freezer.name=Холодильник
+container.incubator.name=Инкубатор
+
+container.chest.trapped.name=Мимик
+
+damagetype.lightning=Молния
+damagetype.holy=Святость
+
+
+#Btwaila support
+aether.tooltip.enchanter.progress= Зачарование:
+aether.tooltip.freezer.progress= Заморозка:
+aether.tooltip.incubator.progress= Вылупление:
+
+aether.tooltip.machine.energy=Энергетическое время: %s s.

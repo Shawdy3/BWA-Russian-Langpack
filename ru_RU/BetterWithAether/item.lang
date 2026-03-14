@@ -1,0 +1,394 @@
+# Руссификатор Better With Aether!
+
+# Инструменты
+item.aether.tool.dungeon_compass.name=Компас Сокровищниц
+item.aether.tool.dungeon_compass.desc=Указывает на что-то неизведанное.
+
+# Кирки
+item.aether.tool.pickaxe.skyroot.name=Небесная кирка
+item.aether.tool.pickaxe.skyroot.desc=Добывайте святокамень этим удваивающим деревянным инструментом.
+item.aether.tool.pickaxe.holystone.name=Святокаменнная кирка
+item.aether.tool.pickaxe.holystone.desc=Добывайте святокамень этим святокаменным инструментом.
+item.aether.tool.pickaxe.zanite.name=Занитная кирка
+item.aether.tool.pickaxe.zanite.desc=Добывайте святокамень этим занитным инструментом.
+item.aether.tool.pickaxe.gravitite.name=Гравититная кирка
+item.aether.tool.pickaxe.gravitite.desc=Добывайте святокамень этим гравититным инструментом.
+item.aether.tool.pickaxe.valkyrie.name=Кирка валькирии
+item.aether.tool.pickaxe.valkyrie.desc=Добывайте святокамень этим ангельским инструментом валькирии.
+
+# Лопаты
+item.aether.tool.shovel.skyroot.name=Небесная лопата
+item.aether.tool.shovel.skyroot.desc=Копайте эфирную землю этим удваивающим деревянным инструментом.
+item.aether.tool.shovel.holystone.name=Святокаменнная лопата
+item.aether.tool.shovel.holystone.desc=Копайте эфирную землю этим святокаменным инструментом.
+item.aether.tool.shovel.zanite.name=Занитная лопата
+item.aether.tool.shovel.zanite.desc=Копайте эфирную землю этим занитным инструментом.
+item.aether.tool.shovel.gravitite.name=Гравититная лопата
+item.aether.tool.shovel.gravitite.desc=Копайте эфирную землю этим гравититным инструментом.
+item.aether.tool.shovel.valkyrie.name=Лопата валькирии
+item.aether.tool.shovel.valkyrie.desc=Копайте эфирную землю этим ангельским инструментом валькирии.
+
+# Топоры
+item.aether.tool.axe.skyroot.name=Небесный Топор
+item.aether.tool.axe.skyroot.desc=Рубите деревья этим удваивающим деревянным инструментом.
+item.aether.tool.axe.holystone.name=Святокаменнный Топор
+item.aether.tool.axe.holystone.desc=Рубите деревья этим святокаменным инструментом.
+item.aether.tool.axe.zanite.name=Занитный Топор
+item.aether.tool.axe.zanite.desc=Рубите деревья этим занитным инструментом.
+item.aether.tool.axe.gravitite.name=Гравититный Топор
+item.aether.tool.axe.gravitite.desc=Рубите деревья этим гравититным инструментом.
+item.aether.tool.axe.valkyrie.name=Топор валькирии
+item.aether.tool.axe.valkyrie.desc=Рубите деревья этим ангельским инструментом валькирии.
+
+# Мечи
+item.aether.tool.sword.skyroot.name=Небесный Меч
+item.aether.tool.sword.skyroot.desc=Бейте гигантских боссов этим удваивающим деревянным клинком.
+item.aether.tool.sword.holystone.name=Святокаменнный Меч
+item.aether.tool.sword.holystone.desc=Бейте гигантских боссов этим острым святокаменным клинком.
+item.aether.tool.sword.zanite.name=Занитный Меч
+item.aether.tool.sword.zanite.desc=Бейте гигантских боссов этим острым занитным клинком.
+item.aether.tool.sword.gravitite.name=Гравититный Меч
+item.aether.tool.sword.gravitite.desc=Бейте гигантских боссов этим острым гравититным клинком.
+item.aether.tool.sword.valkyrie.name=Копье валькирии
+item.aether.tool.sword.valkyrie.desc=Бейте бесстрашных врагов этим ангельским клинком валькирии.
+
+# Особое оружие
+item.aether.tool.sword.pig.name=Убийца свиней
+item.aether.tool.sword.pig.desc=Волшебный кинжал, убивающий свиноподобных существ с одного удара.
+item.aether.tool.sword.vampire.name=Меч вампира
+item.aether.tool.sword.vampire.desc=Вампирский меч, отнимающий здоровье у врагов, отдавая вам щедрую долю.
+item.aether.tool.sword.flame.name=Пламенный Меч
+item.aether.tool.sword.flame.desc=Волшебный клинок, наполненный силой огня.
+item.aether.tool.sword.holy.name=Священный Меч
+item.aether.tool.sword.holy.desc=Волшебный клинок, наполненный силой света.
+item.aether.tool.sword.lightning.name=Молниеносный Меч
+item.aether.tool.sword.lightning.desc=Волшебный клинок, наполненный силой молнии.
+
+# Посохи
+item.aether.tool.staff.nature.name=Посох природы
+item.aether.tool.staff.nature.desc=Позволяет владельцу управлять любым мобом с полной властью.
+item.aether.tool.staff.cloud.name=Облачный посох
+item.aether.tool.staff.cloud.desc=Призовите двух мини-зефиров для защиты.
+
+# Дальнобойное оружие и боеприпасы
+item.aether.tool.knife.lightning.name=Молниеносный кинжал
+item.aether.tool.knife.lightning.desc=Метательный кинжал, поражающий противника молнией.
+item.aether.tool.hammer.notch.name=Молот Нотча
+item.aether.tool.hammer.notch.desc=Легендарный молот со специальной атакой против толп врагов.
+item.aether.ammo.hammer.head.name=Головка молотка
+item.aether.ammo.hammer.head.desc=Снаряд, запускаемый молотом Notch.
+item.aether.tool.bow.phoenix.name=Лук феникса
+item.aether.tool.bow.phoenix.desc=Оружие для стрельбы быстрыми огненными стрелами.
+item.aether.tool.shooter.name=Духовое ружьё
+item.aether.tool.shooter.desc=Оружие для метания быстрых дротиков.
+item.aether.ammo.dart.golden.name=Золотой Дротик
+item.aether.ammo.dart.golden.desc=Золотой шипастый снаряд запускаемый духовым ружьём.
+item.aether.ammo.dart.poison.name=Ядовитый Дротик
+item.aether.ammo.dart.poison.desc=Ядовитый снаряд запускаемый духовым ружьём.
+item.aether.ammo.dart.enchanted.name=Зачарованный Дротик
+item.aether.ammo.dart.enchanted.desc=Зачарованный снаряд запускаемый духовым ружьём.
+item.aether.ammo.arrow.flaming.name=Огненная стрела
+item.aether.ammo.arrow.flaming.desc=Как тебе это удалось?!
+item.aether.ammo.windball.name=Ветренный заряд
+item.aether.ammo.windball.desc=Для ручной пушки. Порыв ветра по большой области.
+item.aether.projectile.fire.name=Огненный Кристалл
+item.aether.projectile.fire.desc=Кристаллизированный снаряд сделанный из огня.
+item.aether.projectile.ice.name=Ледяный Кристалл
+item.aether.projectile.ice.desc=Кристаллизированный снаряд сделанный из льда.
+item.aether.projectile.lightning.name=Молниеносный Кристалл
+item.aether.projectile.lightning.desc=Кристаллизированный снаряд сделанный из молнии.
+
+# Вёдра
+item.aether.bucket.skyroot.name=Небесное ведро
+item.aether.bucket.skyroot.desc=Для хранения разных жидкостей.
+item.aether.bucket.skyroot.water.name=Небесное ведро воды
+item.aether.bucket.skyroot.water.desc=Ведро, полное воды.
+item.aether.bucket.skyroot.milk.name=Небесное ведро молока
+item.aether.bucket.skyroot.milk.desc=Полезно для костей.
+item.aether.bucket.skyroot.poison.name=Небесное ведро яда
+item.aether.bucket.skyroot.poison.desc=Ведро, полное пузырящегося яда. Жалит!
+item.aether.bucket.skyroot.remedy.name=Небесное ведро лекарства
+item.aether.bucket.skyroot.remedy.desc=Используется для лечения яда.
+item.aether.bucket.skyroot.icecream.name=Небесное ведро мороженого
+item.aether.bucket.skyroot.icecream.desc=Морозная сладость, покрытая шоколадной стружкой и вишней!
+
+# Парашюты
+item.aether.parachute.cloud.name=Парашют
+item.aether.parachute.cloud.desc=Плавно скользит вниз. Сработает, если вы выпадаете из Эфира.
+item.aether.parachute.cloud.gold.name=Золотой парашют
+item.aether.parachute.cloud.gold.desc=Более долговечный вариант парашюта.
+
+# Броня
+item.aether.armor.helmet.zanite.name=Занитный шлем
+item.aether.armor.helmet.zanite.desc=Блестящий занитный шлем.
+item.aether.armor.helmet.gravitite.name=Гравититный шлем
+item.aether.armor.helmet.gravitite.desc=Мощный гравититный шлем.
+item.aether.armor.helmet.phoenix.name=Шлем феникса
+item.aether.armor.helmet.phoenix.desc=Пылающий шлем феникса.
+item.aether.armor.helmet.obsidian.name=Обсидиановый шлем
+item.aether.armor.helmet.obsidian.desc=Прочный обсидиановый шлем.
+item.aether.armor.helmet.neptune.name=Шлем нептуна
+item.aether.armor.helmet.neptune.desc=Штормовый шлем нептуна.
+
+item.aether.armor.chestplate.zanite.name=Занитный нагрудник
+item.aether.armor.chestplate.zanite.desc=Блестящий занитный нагрудник.
+item.aether.armor.chestplate.gravitite.name=Гравититный нагрудник
+item.aether.armor.chestplate.gravitite.desc=Мощный гравититный нагрудник.
+item.aether.armor.chestplate.phoenix.name=Нагрудник феникса
+item.aether.armor.chestplate.phoenix.desc=Пылающий нагрудник феникса.
+item.aether.armor.chestplate.obsidian.name=Обсидиановый нагрудник
+item.aether.armor.chestplate.obsidian.desc=Прочный обсидиановый нагрудник.
+item.aether.armor.chestplate.neptune.name=Нагрудник нептуна
+item.aether.armor.chestplate.neptune.desc=Штормовый нагрудник нептуна.
+
+item.aether.armor.leggings.zanite.name=Занитные поножи
+item.aether.armor.leggings.zanite.desc=Пара блястящих занитных понож.
+item.aether.armor.leggings.gravitite.name=Гравититные поножи
+item.aether.armor.leggings.gravitite.desc=Пара мощных гравититных понож.
+item.aether.armor.leggings.phoenix.name=Поножи феникса
+item.aether.armor.leggings.phoenix.desc=Пара пылающих понож феникса.
+item.aether.armor.leggings.obsidian.name=Обсидиановые поножи
+item.aether.armor.leggings.obsidian.desc=Пара прочных обсидиановых понож.
+item.aether.armor.leggings.neptune.name=Поножи нептуна
+item.aether.armor.leggings.neptune.desc=Пара штормовых понож нептуна.
+
+item.aether.armor.boots.zanite.name=Занитные ботинки
+item.aether.armor.boots.zanite.desc=Пара блястящих занитных ботинкок.
+item.aether.armor.boots.gravitite.name=Гравититные ботинки
+item.aether.armor.boots.gravitite.desc=Пара мощных гравититных ботинок.
+item.aether.armor.boots.phoenix.name=Ботинки феникса
+item.aether.armor.boots.phoenix.desc=Пара пылающих ботинкок феникса.
+item.aether.armor.boots.obsidian.name=Обсидиановые ботинки
+item.aether.armor.boots.obsidian.desc=Пара прочных обсидиановых ботинок.
+item.aether.armor.boots.neptune.name=Ботинки нептуна
+item.aether.armor.boots.neptune.desc=Пара штормовых ботинок нептуна.
+
+item.aether.armor.gloves.leather.name=Кожаные перчатки
+item.aether.armor.gloves.leather.desc=Пара перчаток из коровьей кожи.
+item.aether.armor.gloves.chainmail.name=Кольчужные перчатки
+item.aether.armor.gloves.chainmail.desc=Сделаны из мелких колец. Можно починить.
+item.aether.armor.gloves.iron.name=Железные перчатки
+item.aether.armor.gloves.iron.desc=Мощная пара перчаток из железа.
+item.aether.armor.gloves.gold.name=Золотые перчатки
+item.aether.armor.gloves.gold.desc=Деликатная пара перчаток из золота.
+item.aether.armor.gloves.diamond.name=Алмазные перчатки
+item.aether.armor.gloves.diamond.desc=Изысканная пара алмазных перчаток.
+item.aether.armor.gloves.steel.name=Стальные перчатки
+item.aether.armor.gloves.steel.desc=Пара прочных стальных перчаток.
+item.aether.armor.gloves.zanite.name=Занитные перчатки.
+item.aether.armor.gloves.zanite.desc=Блестящая пара перчаток из занита.
+item.aether.armor.gloves.gravitite.name=Гравититные перчатки
+item.aether.armor.gloves.gravitite.desc=Прочная пара перчаток из гравитита.
+item.aether.armor.gloves.phoenix.name=Перчатки феникса
+item.aether.armor.gloves.phoenix.desc=Пылающая пара перчаток феникса.
+item.aether.armor.gloves.obsidian.name=Обсидиановые перчатки
+item.aether.armor.gloves.obsidian.desc=Прочная пара перчаток из обсидиана.
+item.aether.armor.gloves.neptune.name=Перчатки нептуна
+item.aether.armor.gloves.neptune.desc=Штормовая пара перчаток нептуна.
+
+# Предметы сокровищниц
+item.aether.medal.victory.name=Победная медаль
+item.aether.medal.victory.desc=Приз за победу над валькирией. Собери 10!
+item.aether.key.bronze.name=Ключ лабиринта
+item.aether.key.bronze.desc=Выпадает из Слайдера, открой сундук сокровищницы!
+item.aether.key.silver.name=Ключ храма 
+item.aether.key.silver.desc=Выпадает из Королевы валькирий, открой сундук сокровищницы!
+item.aether.key.gold.name=Ключ святилища
+item.aether.key.gold.desc=Выпадает из духа солнца, открой сундук сокровищницы!
+
+# Аксессуары
+item.aether.armor.talisman.iron.name=Железный кулон
+item.aether.armor.talisman.iron.desc=Мощный железный кулон.
+item.aether.armor.talisman.gold.name=Золотой кулон
+item.aether.armor.talisman.gold.desc=Деликатный золотой кулон.
+item.aether.armor.talisman.zanite.name=Занитный кулон
+item.aether.armor.talisman.zanite.desc=Блестящий занитный кулон.
+item.aether.armor.talisman.ice.name=Ледяной кулон
+item.aether.armor.talisman.ice.desc=Холодный ледяной кулон.
+item.aether.armor.talisman.leather.name=Кожаный кулон
+item.aether.armor.talisman.leather.desc=Кулон из коровьей кожи.
+item.aether.armor.talisman.chain.name=Кольчужный кулон
+item.aether.armor.talisman.chain.desc=Сделан из мелких колец.. Можно починить.
+item.aether.armor.talisman.diamond.name=Алмазный кулон
+item.aether.armor.talisman.diamond.desc=Изысканный алмазный кулон.
+item.aether.armor.talisman.steel.name=Стальной кулон
+item.aether.armor.talisman.steel.desc=Прочный стальной кулон.
+item.aether.armor.talisman.gravitite.name=Гравититный кулон
+item.aether.armor.talisman.gravitite.desc=Прочный гравититный кулон.
+item.aether.armor.talisman.bubble.name=Железный пузырь
+item.aether.armor.talisman.bubble.desc=Позволяет тебе дышать под водой вечно.
+item.aether.armor.talisman.feather.gold.name=Золотое перо
+item.aether.armor.talisman.feather.gold.desc=Позволяет плавно опускаться на землю, без урона от падения.
+item.aether.armor.talisman.regen.name=Камень регенерации
+item.aether.armor.talisman.regen.desc=Восстанавливает здоровье всё время.
+item.aether.armor.shield.repulsion.name=Отталкивающий щит
+item.aether.armor.shield.repulsion.desc=Щит, отражающий снаряды. Можно носить или держать в руке.
+
+# Плащи
+item.aether.armor.cape.swet.name=Плащ Эфира
+item.aether.armor.cape.swet.desc=Укрощайте слизней и сладней с этим милым плащом.
+item.aether.armor.cape.invisibility.name=Плащ невидимка
+item.aether.armor.cape.invisibility.desc=Стань невидимкой с этим аккуратным плащом.
+item.aether.armor.cape.agility.name=Плащ ловкости
+item.aether.armor.cape.agility.desc=Взбирайтесь на блоки с этим удобным плащом.
+item.aether.armor.cape.white.name=Белый плащ
+item.aether.armor.cape.white.desc=Декоративный плащ покрашенный в белый.
+item.aether.armor.cape.silver.name=Светло-серый плащ
+item.aether.armor.cape.silver.desc=Декоративный плащ покрашенный в светло-серый.
+item.aether.armor.cape.gray.name=Серый плащ
+item.aether.armor.cape.gray.desc=Декоративный плащ покрашенный в серый.
+item.aether.armor.cape.black.name=Чёрный плащ
+item.aether.armor.cape.black.desc=Декоративный плащ покрашенный в чёрный.
+item.aether.armor.cape.red.name=Красный плащ
+item.aether.armor.cape.red.desc=Декоративный плащ покрашенный в красный.
+item.aether.armor.cape.yellow.name=Жёлтый плащ
+item.aether.armor.cape.yellow.desc=Декоративный плащ покрашенный в жёлтый.
+item.aether.armor.cape.orange.name=Оранжевый плащ
+item.aether.armor.cape.orange.desc=Декоративный плащ покрашенный в оранжевый.
+item.aether.armor.cape.brown.name=Коричневый плащ
+item.aether.armor.cape.brown.desc=Декоративный плащ покрашенный в коричневый.
+item.aether.armor.cape.lime.name=Лаймовый плащ
+item.aether.armor.cape.lime.desc=Декоративный плащ покрашенный в лаймовый.
+item.aether.armor.cape.green.name=Зелёный плащ
+item.aether.armor.cape.green.desc=Декоративный плащ покрашенный в зелёный.
+item.aether.armor.cape.cyan.name=Бирюзовый плащ
+item.aether.armor.cape.cyan.desc=Декоративный плащ покрашенный в бирюзовый.
+item.aether.armor.cape.blue.name=Синий плащ
+item.aether.armor.cape.blue.desc=Декоративный плащ покрашенный в синий.
+item.aether.armor.cape.lightblue.name=Голубой плащ
+item.aether.armor.cape.lightblue.desc=Декоративный плащ покрашенный в голубой.
+item.aether.armor.cape.purple.name=Фиолетовый плащ
+item.aether.armor.cape.purple.desc=Декоративный плащ покрашенный в фиолетовый.
+item.aether.armor.cape.magenta.name=Пурпурный плащ
+item.aether.armor.cape.magenta.desc=Декоративный плащ покрашенный в пурпурный.
+item.aether.armor.cape.pink.name=Розовый плащ
+item.aether.armor.cape.pink.desc=Декоративный плащ покрашенный в розовый.
+
+# Другое
+item.aether.egg.moa.blue.name=Синее яйцо Моа
+item.aether.egg.moa.blue.desc=Отложено голубым моа, поместите его в инкубатор.
+item.aether.egg.moa.black.name=Чёрное яйцо Моа
+item.aether.egg.moa.black.desc=Отложено чёрным моа, поместите его в инкубатор.
+item.aether.egg.moa.white.name=Белое яйцо Моа
+item.aether.egg.moa.white.desc=Отложено белым моа, поместите его в инкубатор.
+
+item.aether.record.aether.name=Музыкальный диск Эфира
+item.aether.record.aether.desc=§baether
+item.aether.record.morning.name=Музыкальный диск Эфира
+item.aether.record.morning.desc=§8morning
+item.aether.record.dawn.name=Музыкальный диск Эфира
+item.aether.record.dawn.desc=§6dawn
+item.aether.record.nether.name=Музыкальный диск Эфира
+item.aether.record.nether.desc=§knether
+
+item.aether.amber.name=Золотой янтарь
+item.aether.amber.desc=С золотого дуба. Полезен для дротиков.
+item.aether.petal.aechor.name=Лепесток эхора
+item.aether.petal.aechor.desc=С цветка эхора, любимая еда моа!
+item.aether.stick.skyroot.name=Небесная палка
+item.aether.stick.skyroot.desc=Найдена на конце ветки. Нужна для различных инструментов Эфира.
+item.aether.ambrosium.name=Осколок Амброзия
+item.aether.ambrosium.desc=Волшебное топливо из святокамня, можно съесть.
+item.aether.zanite.name=Занит
+item.aether.zanite.desc=Блестящий фиолетовый самоцвет используемый для инструментов.
+item.aether.ore.raw.gravitite.name=Сырая гравититовая руда
+item.aether.ore.raw.gravitite.desc=Кусок необработанного гравитита. Можно зачаровать в блок гравитита.
+
+item.aether.food.healing.stone.name=Лечащий камень
+item.aether.food.healing.stone.desc=Зачарованный камень, превращенный в еду, божественный вкус!
+item.aether.food.gummy.blue.name=Голубая конфета
+item.aether.food.gummy.blue.desc=Вкусная голубовато-сладкая пастила. Много лечит!
+item.aether.food.gummy.gold.name=Золотая конфета
+item.aether.food.gummy.gold.desc=Вкусная золотисто-сладкая пастила. Полное лечение!
+item.aether.food.lifeshard.name=Жизненный осколок
+item.aether.food.lifeshard.desc=Навсегда увеличивает ваш максимальный запас здоровья на одно сердце. Удивительно!
+item.aether.food.sword.vampire.name=Кровь жертвы
+item.aether.food.sword.vampire.desc=Как ты это получил?!
+
+
+item.aether.lantern.firefly.silver.name=Фонарь с серебряными светлячками
+item.aether.lantern.firefly.silver.desc=Стеклянная банка с роем серебряных светлячков.
+
+# Двери
+item.aether.door.glass.ambrosium.name=Стеклянная дверь из быстропеска
+item.aether.door.glass.ambrosium.desc=Ужасна для эстетики, ужасна для уединения.
+item.aether.door.dungeon.bronze.name=Дверь лабиринта
+item.aether.door.dungeon.bronze.desc=Нужна каждому лабиринту.
+item.aether.door.dungeon.silver.name=Дверь храма
+item.aether.door.dungeon.silver.desc=Нужна каждому храму.
+item.aether.door.dungeon.gold.name=Дверь святилища
+item.aether.door.dungeon.gold.desc=Нужна каждому святилищу.
+item.aether.door.skyroot.name=Небесная дверь
+item.aether.door.skyroot.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.name=Загадочная небесная дверь
+item.aether.door.skyroot.painted.desc=Как ты это получил?!
+item.aether.door.skyroot.painted.white.name=Белая небесная дверь
+item.aether.door.skyroot.painted.white.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.orange.name=Оранжевая небесная дверь
+item.aether.door.skyroot.painted.orange.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.magenta.name=Пурпурная небесная дверь
+item.aether.door.skyroot.painted.magenta.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.lightblue.name=Голубая небесная дверь
+item.aether.door.skyroot.painted.lightblue.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.yellow.name=Жёлтая небесная дверь
+item.aether.door.skyroot.painted.yellow.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.lime.name=Лаймовая небесная дверь
+item.aether.door.skyroot.painted.lime.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.pink.name=Розовая небесная дверь
+item.aether.door.skyroot.painted.pink.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.gray.name=Серая небесная дверь
+item.aether.door.skyroot.painted.gray.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.silver.name=Светло-серая небесная дверь
+item.aether.door.skyroot.painted.silver.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.cyan.name=Бирюзовая небесная дверь
+item.aether.door.skyroot.painted.cyan.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.purple.name=Фиолетовая небесная дверь
+item.aether.door.skyroot.painted.purple.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.blue.name=Синяя небесная дверь
+item.aether.door.skyroot.painted.blue.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.brown.name=Коричневая небесная дверь
+item.aether.door.skyroot.painted.brown.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.green.name=Зелёная небесная дверь
+item.aether.door.skyroot.painted.green.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.red.name=Красная небесная дверь
+item.aether.door.skyroot.painted.red.desc=Нужна каждому дому.
+item.aether.door.skyroot.painted.black.name=Чёрная небесная дверь
+item.aether.door.skyroot.painted.black.desc=Нужна каждому дому.
+
+# Таблички
+item.aether.sign.skyroot.name=Небесная табличка
+item.aether.sign.skyroot.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.name=Загадочная небесная табличка
+item.aether.sign.skyroot.painted.desc=Как ты это получил?!
+item.aether.sign.skyroot.painted.white.name=Белая небесная табличка
+item.aether.sign.skyroot.painted.white.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.orange.name=Оранжевая небесная табличка
+item.aether.sign.skyroot.painted.orange.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.magenta.name=Пурпурная небесная табличка
+item.aether.sign.skyroot.painted.magenta.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.lightblue.name=Голубая небесная табличка
+item.aether.sign.skyroot.painted.lightblue.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.yellow.name=Жёлтая небесная табличка
+item.aether.sign.skyroot.painted.yellow.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.lime.name=Лаймовая небесная табличка
+item.aether.sign.skyroot.painted.lime.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.pink.name=Розовая небесная табличка
+item.aether.sign.skyroot.painted.pink.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.gray.name=Серая небесная табличка
+item.aether.sign.skyroot.painted.gray.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.silver.name=Светло-серая небесная табличка
+item.aether.sign.skyroot.painted.silver.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.cyan.name=Бирюзовая небесная табличка
+item.aether.sign.skyroot.painted.cyan.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.purple.name=Фиолетовая небесная табличка
+item.aether.sign.skyroot.painted.purple.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.blue.name=Синяя небесная табличка
+item.aether.sign.skyroot.painted.blue.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.brown.name=Коричневая небесная табличка
+item.aether.sign.skyroot.painted.brown.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.green.name=Зелёная небесная табличка
+item.aether.sign.skyroot.painted.green.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.red.name=Красная небесная табличка
+item.aether.sign.skyroot.painted.red.desc=Пометь свои владения или напиши сообщение.
+item.aether.sign.skyroot.painted.black.name=Чёрная небесная табличка
+item.aether.sign.skyroot.painted.black.desc=Пометь свои владения или напиши сообщение.
