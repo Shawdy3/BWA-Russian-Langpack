@@ -6,9 +6,9 @@ dimension.aether.desc=Враждебный рай
 worldType.aether.default.name=Стандартный
 worldType.aether.default.desc=Опыт, больше похожий на оригинальный мод.
 worldType.aether.extended.name=Расширенный
-worldType.aether.extended.desc=Опыт предполагаемый для \nBWA, с более крупными биомами и\ntaller мирами. 
+worldType.aether.extended.desc=Рекомендуемый режим для BWA:\nувеличенные биомы и более\nвысокие миры.
 worldType.aether.skyblock.name=Скайблок
-worldType.aether.skyblock.desc=Хардкорное выживание на мелких\nisland в небе.
+worldType.aether.skyblock.desc=Хардкорное выживание на крошечном\nостровке в небесах.
 worldType.aether.retro.name=Ретро
 worldType.aether.retro.desc=Как стандартный, но с оригинальными текстурами.
 
@@ -20,7 +20,7 @@ record.nether=Nether Menu
 
 
 #Container
-container.enchanter.name=Алтарь
+container.enchanter.name=Чарователь
 container.freezer.name=Холодильник
 container.incubator.name=Инкубатор
 
@@ -35,4 +35,4 @@ aether.tooltip.enchanter.progress= Зачарование:
 aether.tooltip.freezer.progress= Заморозка:
 aether.tooltip.incubator.progress= Вылупление:
 
-aether.tooltip.machine.energy=Энергетическое время: %s s.
+aether.tooltip.machine.energy=Энергетическое время: %s с.
