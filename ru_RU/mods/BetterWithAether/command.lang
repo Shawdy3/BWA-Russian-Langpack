@@ -1,0 +1,17 @@
+command.aether.add.extra_health.success_single_entity=Добавлено %s дополнительного здоровья для %s
+command.aether.set.extra_health.success_single_entity=Дополнительное здоровье %s установлено на %s
+command.aether.get.extra_health.success_single_entity=Дополнительное здоровье %s - %s
+# for @a
+command.aether.add.extra_health.success_multiple_entities=Добавлено %s дополнительного здоровья игрокам
+command.aether.set.extra_health.success_multiple_entities=Дополнительное здоровье игроков установлено на %s
+command.aether.get.extra_health.success_multiple_entities=Общее дополнительное здоровье игроков - %s
+
+command.aether.effects.add.poison.success_single_entity=Добавлено %s для %s.
+command.aether.effects.add.poison.success_multiple_entity=Добавлено %s для %s сущностей.
+
+command.aether.effects.add.remedy.success_single_entity=Добавлено %s для %s.
+command.aether.effects.add.remedy.success_multiple_entity=Добавлено %s для %s сущностей.
+
+command.aether.effects.clear.success_single_entity=Все эффекты сняты с %s.
+command.aether.effects.clear.success_multiple_entity=Все эффекты сняты с %s сущностей.
+

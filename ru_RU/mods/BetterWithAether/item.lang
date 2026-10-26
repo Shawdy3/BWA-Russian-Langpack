@@ -1,0 +1,425 @@
+# Инструменты
+item.tool.dungeon_compass.name=Компас Сокровищниц
+item.tool.dungeon_compass.desc=Указывает на что-то неизведанное.
+
+# Кирки
+item.tool.pickaxe.skyroot.name=Небесная кирка
+item.tool.pickaxe.skyroot.desc=Добывайте святокамень этим удваивающим деревянным инструментом.
+item.tool.pickaxe.holystone.name=Святокаменнная кирка
+item.tool.pickaxe.holystone.desc=Добывайте святокамень этим святокаменным инструментом.
+item.tool.pickaxe.zanite.name=Занитная кирка
+item.tool.pickaxe.zanite.desc=Добывайте святокамень этим занитным инструментом.
+item.tool.pickaxe.gravitite.name=Гравититная кирка
+item.tool.pickaxe.gravitite.desc=Добывайте святокамень этим гравититным инструментом.
+item.tool.pickaxe.valkyrie.name=Кирка валькирии
+item.tool.pickaxe.valkyrie.desc=Добывайте святокамень этим ангельским инструментом валькирии.
+item.tool.pickaxe.phoenix.name=Кирка феникса
+item.tool.pickaxe.phoenix.desc=Добывайте святокамень этим ангельским инструментом феникса.
+
+# Лопаты
+item.tool.shovel.skyroot.name=Небесная лопата
+item.tool.shovel.skyroot.desc=Копайте эфирную землю этим удваивающим деревянным инструментом.
+item.tool.shovel.holystone.name=Святокаменнная лопата
+item.tool.shovel.holystone.desc=Копайте эфирную землю этим святокаменным инструментом.
+item.tool.shovel.zanite.name=Занитная лопата
+item.tool.shovel.zanite.desc=Копайте эфирную землю этим занитным инструментом.
+item.tool.shovel.gravitite.name=Гравититная лопата
+item.tool.shovel.gravitite.desc=Копайте эфирную землю этим гравититным инструментом.
+item.tool.shovel.valkyrie.name=Лопата валькирии
+item.tool.shovel.valkyrie.desc=Копайте эфирную землю этим ангельским инструментом валькирии.
+item.tool.shovel.phoenix.name=Лопата феникса
+item.tool.shovel.phoenix.desc=Копайте эфирную землю этим ангельским инструментом феникса.
+
+# Топоры
+item.tool.axe.skyroot.name=Небесный Топор
+item.tool.axe.skyroot.desc=Рубите деревья этим удваивающим деревянным инструментом.
+item.tool.axe.holystone.name=Святокаменнный Топор
+item.tool.axe.holystone.desc=Рубите деревья этим святокаменным инструментом.
+item.tool.axe.zanite.name=Занитный Топор
+item.tool.axe.zanite.desc=Рубите деревья этим занитным инструментом.
+item.tool.axe.gravitite.name=Гравититный Топор
+item.tool.axe.gravitite.desc=Рубите деревья этим гравититным инструментом.
+item.tool.axe.valkyrie.name=Топор валькирии
+item.tool.axe.valkyrie.desc=Рубите деревья этим ангельским инструментом валькирии.
+item.tool.axe.phoenix.name=Топор феникса
+item.tool.axe.phoenix.desc=Рубите деревья этим ангельским инструментом феникса.
+
+# Мечи
+item.tool.sword.skyroot.name=Небесный Меч
+item.tool.sword.skyroot.desc=Бейте гигантских боссов этим удваивающим деревянным клинком.
+item.tool.sword.holystone.name=Святокаменнный Меч
+item.tool.sword.holystone.desc=Бейте гигантских боссов этим острым святокаменным клинком.
+item.tool.sword.zanite.name=Занитный Меч
+item.tool.sword.zanite.desc=Бейте гигантских боссов этим острым занитным клинком.
+item.tool.sword.gravitite.name=Гравититный Меч
+item.tool.sword.gravitite.desc=Бейте гигантских боссов этим острым гравититным клинком.
+item.tool.sword.valkyrie.name=Копье валькирии
+item.tool.sword.valkyrie.desc=Бейте бесстрашных врагов этим ангельским клинком валькирии.
+item.tool.sword.phoenix.name=Меч феникса
+item.tool.sword.phoenix.desc=Бейте бесстрашных врагов этим пылающим клинком.
+
+# Особое оружие
+item.tool.sword.pig.name=Убийца свиней
+item.tool.sword.pig.desc=Волшебный кинжал, убивающий свиноподобных существ с одного удара.
+item.tool.sword.vampire.name=Меч вампира
+item.tool.sword.vampire.desc=Вампирский меч, отнимающий здоровье у врагов, отдавая вам щедрую долю.
+item.tool.sword.flame.name=Пламенный Меч
+item.tool.sword.flame.desc=Волшебный клинок, наполненный силой огня.
+item.tool.sword.holy.name=Священный Меч
+item.tool.sword.holy.desc=Волшебный клинок, наполненный силой света.
+item.tool.sword.lightning.name=Молниеносный Меч
+item.tool.sword.lightning.desc=Волшебный клинок, наполненный силой молнии.
+item.tool.staff.jeb.name=Jeb_'бер
+item.tool.staff.jeb.desc=Миру не помешало бы побольше красок и поменьше обитателей.
+
+# Посохи
+item.tool.staff.nature.name=Посох природы
+item.tool.staff.nature.desc=Позволяет владельцу управлять любым мобом с полной властью.
+item.tool.staff.cloud.name=Облачный посох
+item.tool.staff.cloud.desc=Призовите двух мини-зефиров для защиты.
+
+# Дальнобойное оружие и боеприпасы
+item.tool.knife.lightning.name=Молниеносный кинжал
+item.tool.knife.lightning.desc=Метательный кинжал, поражающий противника молнией.
+item.tool.hammer.notch.name=Молот Нотча
+item.tool.hammer.notch.desc=Легендарный молот со специальной атакой против толп врагов.
+item.ammo.hammer.head.name=Головка молотка
+item.ammo.hammer.head.desc=Снаряд, запускаемый молотом Notch.
+item.tool.bow.phoenix.name=Лук феникса
+item.tool.bow.phoenix.desc=Оружие для стрельбы быстрыми огненными стрелами.
+item.tool.shooter.name=Духовое ружьё
+item.tool.shooter.desc=Оружие для метания быстрых дротиков.
+item.ammo.dart.golden.name=Золотой Дротик
+item.ammo.dart.golden.desc=Золотой шипастый снаряд запускаемый духовым ружьём.
+item.ammo.dart.poison.name=Ядовитый Дротик
+item.ammo.dart.poison.desc=Ядовитый снаряд запускаемый духовым ружьём.
+item.ammo.dart.enchanted.name=Зачарованный Дротик
+item.ammo.dart.enchanted.desc=Зачарованный снаряд запускаемый духовым ружьём.
+item.ammo.arrow.flaming.name=Огненная стрела
+item.ammo.arrow.flaming.desc=Как тебе это удалось?!
+item.ammo.windball.name=Ветренный заряд
+item.ammo.windball.desc=Для ручной пушки. Порыв ветра по большой области.
+item.projectile.fire.name=Огненный Кристалл
+item.projectile.fire.desc=Кристаллизированный снаряд сделанный из огня.
+item.projectile.ice.name=Ледяный Кристалл
+item.projectile.ice.desc=Кристаллизированный снаряд сделанный из льда.
+item.projectile.lightning.name=Молниеносный Кристалл
+item.projectile.lightning.desc=Кристаллизированный снаряд сделанный из молнии.
+
+# Вёдра
+item.bucket.skyroot.name=Небесное ведро
+item.bucket.skyroot.desc=Для хранения разных жидкостей.
+item.bucket.skyroot.water.name=Небесное ведро воды
+item.bucket.skyroot.water.desc=Ведро, полное воды.
+item.bucket.skyroot.milk.name=Небесное ведро молока
+item.bucket.skyroot.milk.desc=Полезно для костей.
+item.bucket.skyroot.poison.name=Небесное ведро яда
+item.bucket.skyroot.poison.desc=Ведро, полное пузырящегося яда. Жалит!
+item.bucket.skyroot.remedy.name=Небесное ведро лекарства
+item.bucket.skyroot.remedy.desc=Используется для лечения яда.
+item.bucket.skyroot.icecream.name=Небесное ведро мороженого
+item.bucket.skyroot.icecream.desc=Морозная сладость, покрытая шоколадной стружкой и вишней!
+
+# Парашюты
+item.parachute.cloud.name=Парашют
+item.parachute.cloud.desc=Плавно скользит вниз. Сработает, если вы выпадаете из Эфира.
+item.parachute.cloud.gold.name=Золотой парашют
+item.parachute.cloud.gold.desc=Более долговечный вариант парашюта.
+
+# Броня
+item.armor.helmet.zanite.name=Занитный шлем
+item.armor.helmet.zanite.desc=Блестящий занитный шлем.
+item.armor.helmet.gravitite.name=Гравититный шлем
+item.armor.helmet.gravitite.desc=Мощный гравититный шлем.
+item.armor.helmet.phoenix.name=Шлем феникса
+item.armor.helmet.phoenix.desc=Пылающий шлем феникса.
+item.armor.helmet.obsidian.name=Обсидиановый шлем
+item.armor.helmet.obsidian.desc=Прочный обсидиановый шлем.
+item.armor.helmet.neptune.name=Шлем нептуна
+item.armor.helmet.neptune.desc=Штормовый шлем нептуна.
+
+item.armor.chestplate.zanite.name=Занитный нагрудник
+item.armor.chestplate.zanite.desc=Блестящий занитный нагрудник.
+item.armor.chestplate.gravitite.name=Гравититный нагрудник
+item.armor.chestplate.gravitite.desc=Мощный гравититный нагрудник.
+item.armor.chestplate.phoenix.name=Нагрудник феникса
+item.armor.chestplate.phoenix.desc=Пылающий нагрудник феникса.
+item.armor.chestplate.obsidian.name=Обсидиановый нагрудник
+item.armor.chestplate.obsidian.desc=Прочный обсидиановый нагрудник.
+item.armor.chestplate.neptune.name=Нагрудник нептуна
+item.armor.chestplate.neptune.desc=Штормовый нагрудник нептуна.
+
+item.armor.leggings.zanite.name=Занитные поножи
+item.armor.leggings.zanite.desc=Пара блястящих занитных понож.
+item.armor.leggings.gravitite.name=Гравититные поножи
+item.armor.leggings.gravitite.desc=Пара мощных гравититных понож.
+item.armor.leggings.phoenix.name=Поножи феникса
+item.armor.leggings.phoenix.desc=Пара пылающих понож феникса.
+item.armor.leggings.obsidian.name=Обсидиановые поножи
+item.armor.leggings.obsidian.desc=Пара прочных обсидиановых понож.
+item.armor.leggings.neptune.name=Поножи нептуна
+item.armor.leggings.neptune.desc=Пара штормовых понож нептуна.
+
+item.armor.boots.zanite.name=Занитные ботинки
+item.armor.boots.zanite.desc=Пара блястящих занитных ботинкок.
+item.armor.boots.gravitite.name=Гравититные ботинки
+item.armor.boots.gravitite.desc=Пара мощных гравититных ботинок.
+item.armor.boots.phoenix.name=Ботинки феникса
+item.armor.boots.phoenix.desc=Пара пылающих ботинкок феникса.
+item.armor.boots.obsidian.name=Обсидиановые ботинки
+item.armor.boots.obsidian.desc=Пара прочных обсидиановых ботинок.
+item.armor.boots.neptune.name=Ботинки нептуна
+item.armor.boots.neptune.desc=Пара штормовых ботинок нептуна.
+
+item.armor.gloves.leather.name=Кожаные перчатки
+item.armor.gloves.leather.desc=Пара перчаток из коровьей кожи.
+item.armor.gloves.chainmail.name=Кольчужные перчатки
+item.armor.gloves.chainmail.desc=Сделаны из мелких колец. Можно починить.
+item.armor.gloves.iron.name=Железные перчатки
+item.armor.gloves.iron.desc=Мощная пара перчаток из железа.
+item.armor.gloves.gold.name=Золотые перчатки
+item.armor.gloves.gold.desc=Деликатная пара перчаток из золота.
+item.armor.gloves.diamond.name=Алмазные перчатки
+item.armor.gloves.diamond.desc=Изысканная пара алмазных перчаток.
+item.armor.gloves.steel.name=Стальные перчатки
+item.armor.gloves.steel.desc=Пара прочных стальных перчаток.
+item.armor.gloves.zanite.name=Занитные перчатки
+item.armor.gloves.zanite.desc=Блестящая пара перчаток из занита.
+item.armor.gloves.gravitite.name=Гравититные перчатки
+item.armor.gloves.gravitite.desc=Прочная пара перчаток из гравитита.
+item.armor.gloves.phoenix.name=Перчатки феникса
+item.armor.gloves.phoenix.desc=Пылающая пара перчаток феникса.
+item.armor.gloves.obsidian.name=Обсидиановые перчатки
+item.armor.gloves.obsidian.desc=Прочная пара перчаток из обсидиана.
+item.armor.gloves.neptune.name=Перчатки нептуна
+item.armor.gloves.neptune.desc=Штормовая пара перчаток нептуна.
+item.armor.gloves.ult.name=Универсальный кулак
+item.armor.gloves.ult.desc=Все инструменты преклоняются перед королем.
+item.armor.gloves.ult.uncharged.name=Универсальный кулак (Неактивный)
+item.armor.gloves.ult.uncharged.desc=Еще не годится для короля.
+
+item.armor.wolf.zanite.name=Занитная волчья броня
+item.armor.wolf.zanite.desc=Обезопасьте своего лучшего друга с помощью блястящей занитной брони.
+
+item.armor.wolf.gravitite.name=Гравититная волчья броня
+item.armor.wolf.gravitite.desc=Обезопасьте своего лучшего друга с помощью мощной гравититной брони.
+
+item.armor.wolf.obsidian.name=Обсидиановая волчья броня
+item.armor.wolf.obsidian.desc=Обезопасьте своего лучшего друга с помощью прочной обсидиановой брони.
+
+item.armor.wolf.phoenix.name=Волчья броня феникса
+item.armor.wolf.phoenix.desc=Обезопасьте своего лучшего друга с помощью пылающего доспеха феникса.
+
+item.armor.wolf.neptune.name=Волчья броня нептуна
+item.armor.wolf.neptune.desc=Обезопасьте своего лучшего друга с помощью штормового доспеха нептуна.
+
+# Предметы сокровищниц
+item.medal.victory.name=Победная медаль
+item.medal.victory.desc=Приз за победу над валькирией. Собери 10!
+item.key.bronze.name=Ключ лабиринта
+item.key.bronze.desc=Выпадает из Слайдера, открой сундук сокровищницы!
+item.key.silver.name=Ключ храма 
+item.key.silver.desc=Выпадает из Королевы валькирий, открой сундук сокровищницы!
+item.key.gold.name=Ключ святилища
+item.key.gold.desc=Выпадает из духа солнца, открой сундук сокровищницы!
+
+# Аксессуары
+item.armor.talisman.iron.name=Железный кулон
+item.armor.talisman.iron.desc=Мощный железный кулон.
+item.armor.talisman.gold.name=Золотой кулон
+item.armor.talisman.gold.desc=Деликатный золотой кулон.
+item.armor.talisman.zanite.name=Занитный кулон
+item.armor.talisman.zanite.desc=Блестящий занитный кулон.
+item.armor.talisman.ice.name=Ледяной кулон
+item.armor.talisman.ice.desc=Холодный ледяной кулон.
+item.armor.talisman.leather.name=Кожаный кулон
+item.armor.talisman.leather.desc=Кулон из коровьей кожи.
+item.armor.talisman.chain.name=Кольчужный кулон
+item.armor.talisman.chain.desc=Сделан из мелких колец.. Можно починить.
+item.armor.talisman.diamond.name=Алмазный кулон
+item.armor.talisman.diamond.desc=Изысканный алмазный кулон.
+item.armor.talisman.steel.name=Стальной кулон
+item.armor.talisman.steel.desc=Прочный стальной кулон.
+item.armor.talisman.gravitite.name=Гравититный кулон
+item.armor.talisman.gravitite.desc=Прочный гравититный кулон.
+item.armor.talisman.bubble.name=Железный пузырь
+item.armor.talisman.bubble.desc=Позволяет тебе дышать под водой вечно.
+item.armor.talisman.feather.gold.name=Золотое перо
+item.armor.talisman.feather.gold.desc=Позволяет плавно опускаться на землю, без урона от падения.
+item.armor.talisman.regen.name=Камень регенерации
+item.armor.talisman.regen.desc=Восстанавливает здоровье всё время.
+item.armor.shield.repulsion.name=Отталкивающий щит
+item.armor.shield.repulsion.desc=Щит, отражающий снаряды. Можно носить или держать в руке.
+
+# Плащи
+item.armor.cape.swet.name=Плащ Эфира
+item.armor.cape.swet.desc=Укрощайте слизней и сладней с этим милым плащом.
+item.armor.cape.invisibility.name=Плащ невидимка
+item.armor.cape.invisibility.desc=Стань невидимкой с этим аккуратным плащом.
+item.armor.cape.agility.name=Плащ ловкости
+item.armor.cape.agility.desc=Взбирайтесь на блоки с этим удобным плащом.
+item.armor.cape.white.name=Белый плащ
+item.armor.cape.white.desc=Декоративный плащ покрашенный в белый.
+item.armor.cape.silver.name=Светло-серый плащ
+item.armor.cape.silver.desc=Декоративный плащ покрашенный в светло-серый.
+item.armor.cape.gray.name=Серый плащ
+item.armor.cape.gray.desc=Декоративный плащ покрашенный в серый.
+item.armor.cape.black.name=Чёрный плащ
+item.armor.cape.black.desc=Декоративный плащ покрашенный в чёрный.
+item.armor.cape.red.name=Красный плащ
+item.armor.cape.red.desc=Декоративный плащ покрашенный в красный.
+item.armor.cape.yellow.name=Жёлтый плащ
+item.armor.cape.yellow.desc=Декоративный плащ покрашенный в жёлтый.
+item.armor.cape.orange.name=Оранжевый плащ
+item.armor.cape.orange.desc=Декоративный плащ покрашенный в оранжевый.
+item.armor.cape.brown.name=Коричневый плащ
+item.armor.cape.brown.desc=Декоративный плащ покрашенный в коричневый.
+item.armor.cape.lime.name=Лаймовый плащ
+item.armor.cape.lime.desc=Декоративный плащ покрашенный в лаймовый.
+item.armor.cape.green.name=Зелёный плащ
+item.armor.cape.green.desc=Декоративный плащ покрашенный в зелёный.
+item.armor.cape.cyan.name=Бирюзовый плащ
+item.armor.cape.cyan.desc=Декоративный плащ покрашенный в бирюзовый.
+item.armor.cape.blue.name=Синий плащ
+item.armor.cape.blue.desc=Декоративный плащ покрашенный в синий.
+item.armor.cape.lightblue.name=Голубой плащ
+item.armor.cape.lightblue.desc=Декоративный плащ покрашенный в голубой.
+item.armor.cape.purple.name=Фиолетовый плащ
+item.armor.cape.purple.desc=Декоративный плащ покрашенный в фиолетовый.
+item.armor.cape.magenta.name=Пурпурный плащ
+item.armor.cape.magenta.desc=Декоративный плащ покрашенный в пурпурный.
+item.armor.cape.pink.name=Розовый плащ
+item.armor.cape.pink.desc=Декоративный плащ покрашенный в розовый.
+
+# Другое
+item.egg.moa.blue.name=Синее яйцо Моа
+item.egg.moa.blue.desc=Отложено голубым моа, поместите его в инкубатор.
+item.egg.moa.black.name=Чёрное яйцо Моа
+item.egg.moa.black.desc=Отложено чёрным моа, поместите его в инкубатор.
+item.egg.moa.white.name=Белое яйцо Моа
+item.egg.moa.white.desc=Отложено белым моа, поместите его в инкубатор.
+
+item.record.name=Музыкальный диск Эфира
+item.record.desc=§baether
+item.record.morning.name=Музыкальный диск Эфира
+item.record.morning.desc=§8morning
+item.record.dawn.name=Музыкальный диск Эфира
+item.record.dawn.desc=§6dawn
+item.record.nether.name=Музыкальный диск Эфира
+item.record.nether.desc=§knether
+
+item.amber.name=Золотой янтарь
+item.amber.desc=С золотого дуба. Полезен для дротиков.
+item.petal.aechor.name=Лепесток эхора
+item.petal.aechor.desc=С цветка эхора, любимая еда моа!
+item.stick.skyroot.name=Небесная палка
+item.stick.skyroot.desc=Найдена на конце ветки. Нужна для различных инструментов Эфира.
+item.ambrosium.name=Осколок Амброзия
+item.ambrosium.desc=Волшебное топливо из святокамня, можно съесть.
+item.zanite.name=Занит
+item.zanite.desc=Блестящий фиолетовый самоцвет используемый для инструментов.
+item.ore.raw.gravitite.name=Сырая гравититовая руда
+item.ore.raw.gravitite.desc=Кусок необработанного гравитита. Можно зачаровать в блок гравитита.
+
+item.food.healing.stone.name=Лечащий камень
+item.food.healing.stone.desc=Зачарованный камень, превращенный в еду, божественный вкус!
+item.food.gummy.blue.name=Голубая конфета
+item.food.gummy.blue.desc=Вкусная голубовато-сладкая пастила. Много лечит!
+item.food.gummy.gold.name=Золотая конфета
+item.food.gummy.gold.desc=Вкусная золотисто-сладкая пастила. Полное лечение!
+item.food.lifeshard.name=Жизненный осколок
+item.food.lifeshard.desc=Навсегда увеличивает ваш максимальный запас здоровья на одно сердце. Удивительно!
+item.food.sword.vampire.name=Кровь жертвы
+item.food.sword.vampire.desc=Как ты это получил?!
+
+
+item.lantern.firefly.silver.name=Фонарь с серебряными светлячками
+item.lantern.firefly.silver.desc=Стеклянная банка с роем серебряных светлячков.
+
+# Двери
+item.door.glass.ambrosium.name=Стеклянная дверь из быстропеска
+item.door.glass.ambrosium.desc=Ужасна для эстетики, ужасна для уединения.
+item.door.dungeon.bronze.name=Дверь лабиринта
+item.door.dungeon.bronze.desc=Нужна каждому лабиринту.
+item.door.dungeon.silver.name=Дверь храма
+item.door.dungeon.silver.desc=Нужна каждому храму.
+item.door.dungeon.gold.name=Дверь святилища
+item.door.dungeon.gold.desc=Нужна каждому святилищу.
+item.door.skyroot.name=Небесная дверь
+item.door.skyroot.desc=Нужна каждому дому.
+item.door.skyroot.painted.name=Загадочная небесная дверь
+item.door.skyroot.painted.desc=Как ты это получил?!
+item.door.skyroot.painted.white.name=Белая небесная дверь
+item.door.skyroot.painted.white.desc=Нужна каждому дому.
+item.door.skyroot.painted.orange.name=Оранжевая небесная дверь
+item.door.skyroot.painted.orange.desc=Нужна каждому дому.
+item.door.skyroot.painted.magenta.name=Пурпурная небесная дверь
+item.door.skyroot.painted.magenta.desc=Нужна каждому дому.
+item.door.skyroot.painted.lightblue.name=Голубая небесная дверь
+item.door.skyroot.painted.lightblue.desc=Нужна каждому дому.
+item.door.skyroot.painted.yellow.name=Жёлтая небесная дверь
+item.door.skyroot.painted.yellow.desc=Нужна каждому дому.
+item.door.skyroot.painted.lime.name=Лаймовая небесная дверь
+item.door.skyroot.painted.lime.desc=Нужна каждому дому.
+item.door.skyroot.painted.pink.name=Розовая небесная дверь
+item.door.skyroot.painted.pink.desc=Нужна каждому дому.
+item.door.skyroot.painted.gray.name=Серая небесная дверь
+item.door.skyroot.painted.gray.desc=Нужна каждому дому.
+item.door.skyroot.painted.silver.name=Светло-серая небесная дверь
+item.door.skyroot.painted.silver.desc=Нужна каждому дому.
+item.door.skyroot.painted.cyan.name=Бирюзовая небесная дверь
+item.door.skyroot.painted.cyan.desc=Нужна каждому дому.
+item.door.skyroot.painted.purple.name=Фиолетовая небесная дверь
+item.door.skyroot.painted.purple.desc=Нужна каждому дому.
+item.door.skyroot.painted.blue.name=Синяя небесная дверь
+item.door.skyroot.painted.blue.desc=Нужна каждому дому.
+item.door.skyroot.painted.brown.name=Коричневая небесная дверь
+item.door.skyroot.painted.brown.desc=Нужна каждому дому.
+item.door.skyroot.painted.green.name=Зелёная небесная дверь
+item.door.skyroot.painted.green.desc=Нужна каждому дому.
+item.door.skyroot.painted.red.name=Красная небесная дверь
+item.door.skyroot.painted.red.desc=Нужна каждому дому.
+item.door.skyroot.painted.black.name=Чёрная небесная дверь
+item.door.skyroot.painted.black.desc=Нужна каждому дому.
+
+# Таблички
+item.sign.skyroot.name=Небесная табличка
+item.sign.skyroot.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.name=Загадочная небесная табличка
+item.sign.skyroot.painted.desc=Как ты это получил?!
+item.sign.skyroot.painted.white.name=Белая небесная табличка
+item.sign.skyroot.painted.white.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.orange.name=Оранжевая небесная табличка
+item.sign.skyroot.painted.orange.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.magenta.name=Пурпурная небесная табличка
+item.sign.skyroot.painted.magenta.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.lightblue.name=Голубая небесная табличка
+item.sign.skyroot.painted.lightblue.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.yellow.name=Жёлтая небесная табличка
+item.sign.skyroot.painted.yellow.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.lime.name=Лаймовая небесная табличка
+item.sign.skyroot.painted.lime.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.pink.name=Розовая небесная табличка
+item.sign.skyroot.painted.pink.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.gray.name=Серая небесная табличка
+item.sign.skyroot.painted.gray.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.silver.name=Светло-серая небесная табличка
+item.sign.skyroot.painted.silver.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.cyan.name=Бирюзовая небесная табличка
+item.sign.skyroot.painted.cyan.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.purple.name=Фиолетовая небесная табличка
+item.sign.skyroot.painted.purple.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.blue.name=Синяя небесная табличка
+item.sign.skyroot.painted.blue.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.brown.name=Коричневая небесная табличка
+item.sign.skyroot.painted.brown.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.green.name=Зелёная небесная табличка
+item.sign.skyroot.painted.green.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.red.name=Красная небесная табличка
+item.sign.skyroot.painted.red.desc=Пометь свои владения или напиши сообщение.
+item.sign.skyroot.painted.black.name=Чёрная небесная табличка
+item.sign.skyroot.painted.black.desc=Пометь свои владения или напиши сообщение.
+
+
+item.statue.holystone.name=Святокаменная статуя
+item.statue.holystone.desc=A decorative statue carved out of holystone.

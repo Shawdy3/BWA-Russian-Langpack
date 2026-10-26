@@ -1,0 +1,9 @@
+gui.options.page.catalyst=Catalyst
+gui.options.page.catalyst.category.core=Ядро
+gui.options.page.catalyst.category.fluids=Жидкости
+gui.options.page.catalyst.category.energy=Энергия
+gui.options.page.catalyst.category.multiblocks=Мультиблоки
+gui.options.page.catalyst.category.effects=Эффекты
+gui.options.page.catalyst.category.multipart=Мультичасти
+
+options.catalyst-core.showNetworkRender=Показать сеть рендеринга

@@ -1,0 +1,4 @@
+gui.options.page.aether.title=Aether
+gui.options.page.aether.category.user_interface=Интерфейс
+options.aether.flickAccessoryIcons=Меняющиеся брелоки в инвентаре
+options.aether.flickAccessorySpeed=Скорость меняющихся брелоков в инвентаре

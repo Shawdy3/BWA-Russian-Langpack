@@ -1,0 +1,25 @@
+tile.catalyst-multipart.multipart.name=Мультичасти
+tile.catalyst-multipart.multipart.desc=Блок, сделанный из частей других блоков.
+
+tile.catalyst-multipart.workbench.carpenter.name=Столярный верстак
+tile.catalyst-multipart.workbench.carpenter.desc=Специальный верстак, превращающий блоки в мультичасти.
+
+item.catalyst-multipart.multipart.name=Неизвестная мультичасть
+item.catalyst-multipart.multipart.desc=Определенный участок определенного блока.
+
+multipart.foil.name=Плёнка
+multipart.cover.name=Каркас
+multipart.panel.name=Панель
+multipart.slab.name=Плита
+multipart.antifoil.name=Антипленка
+multipart.anticover.name=Антикаркас
+multipart.antipanel.name=Антипанель
+multipart.hollow_foil.name=Полая плёнка
+multipart.hollow_cover.name=Полый каркас
+multipart.hollow_panel.name=Полая панель
+multipart.hollow_slab.name=Полая плита
+multipart.pillar.name=Колонна
+
+options.catalyst-multipart.showMultipartsInTMB=Показать мультичасти в TMB (Требуется перезапуск)
+
+container.catalyst-multipart.carpenterWorkbench.name=Столярный верстак

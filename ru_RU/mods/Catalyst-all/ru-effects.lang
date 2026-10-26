@@ -1,0 +1,37 @@
+attribute.catalyst.effectDuration.name=Длительность эффекта
+attribute.catalyst.effectDuration.desc=Изменяет общую продолжительность всех эффектов.
+
+effect.catalyst.durationBoost.name=Duration Boost
+
+gui.options.page.controls.category.catalyst-effects=
+gui.options.page.catalyst-effects=Catalyst: Effects
+options.catalyst-effects.displayEffectsIn=Отображать эффекты
+options.catalyst-effects.displayEffectsIn.inventory=В инвентаре
+options.catalyst-effects.displayEffectsIn.hud=В интерфейсе
+options.catalyst-effects.displayEffectsIn.both=Оба варианта
+
+options.catalyst-effects.displayExtraHealthAs=Отображать дополнительное здоровье
+options.catalyst-effects.displayExtraHealthAs.extra_bars=Как сердца
+options.catalyst-effects.displayExtraHealthAs.multiplier=Как числа
+
+error.catalyst-effects.invalidEffect=Указано неверное название эффекта!
+error.catalyst-effects.incompatibleEntity=Попытка добавить эффекты к несовместимой сущности!
+
+command.catalyst-effects.add.extra_health.success_single_entity=Добавлено %s дополнительного здоровья для %s
+command.catalyst-effects.set.extra_health.success_single_entity=Дополнительное здоровье %s установлено на %s
+command.catalyst-effects.get.extra_health.success_single_entity=Дополнительное здоровье %s - %s
+
+# for @a
+command.catalyst-effects.add.extra_health.success_multiple_entities=Добавлено %s дополнительного здоровья игрокам
+command.catalyst-effects.set.extra_health.success_multiple_entities=Дополнительное здоровье игроков установлено на %s
+command.catalyst-effects.get.extra_health.success_multiple_entities=Общее дополнительное здоровье игроков - %s
+
+command.catalyst-effects.effects.add.poison.success_single_entity=Добавлено %s для %s.
+command.catalyst-effects.effects.add.poison.success_multiple_entity=Добавлено %s для %s сущностей.
+
+command.catalyst-effects.effects.add.remedy.success_single_entity=Добавлено %s для %s.
+command.catalyst-effects.effects.add.remedy.success_multiple_entity=Добавлено %s для %s сущностей.
+
+command.catalyst-effects.effects.clear.success_single_entity=Сняты все эффекты с %s.
+command.catalyst-effects.effects.clear.success_multiple_entity=Сняты все эффекты с %s сущностей.
+
